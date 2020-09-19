@@ -1,15 +1,15 @@
 <div align="center">
  
 # Whatsapp Bot - sticker creator
-[![Codefactor](https://www.codefactor.io/repository/github/yogasakti/imagetosticker/badge)](https://www.codefactor.io/repository/github/yogasakti/imagetosticker)
+[![Codefactor](https://www.codefactor.io/repository/github/HebatLuBoy/imagetosticker/badge)](https://www.codefactor.io/repository/github/HebatLuBoy/imagetosticker)
 <details>
  <summary>🥟 Help me!</summary>
 
- [Saweria](https://saweria.co/donate/yogasakti)
+ [Saweria](https://saweria.co/donate/HebatLuBoy)
  
- [Trakteer](https://trakteer.id/red-emperor)
+ [Trakteer](https://trakteer.id/HebatLuBoy)
  
- [Paypal.me](https://paypal.me/yshputra)
+ [Paypal.me](https://paypal.me/HebatLuBoy)
  
 </details>
 </div>
@@ -67,7 +67,7 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/YogaSakti/imageToSticker.git
+> git clone https://github.com/HebatLuBoy/imageToSticker.git
 > cd imageToSticker
 ```
 
