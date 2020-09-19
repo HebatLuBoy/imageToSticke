@@ -1,7 +1,7 @@
 <div align="center">
  
 # Whatsapp Bot - sticker creator
-[![Codefactor](https://www.codefactor.io/repository/github/hebatluboy/imagetosticke/badge)](https://www.codefactor.io/repository/github/hebatluboy/imagetosticke/badge)
+[![CodeFactor](https://www.codefactor.io/repository/github/hebatluboy/imagetosticker/badge)](https://www.codefactor.io/repository/github/hebatluboy/imagetosticker)
 <details>
  <summary>🥟 Help me!</summary>
 
